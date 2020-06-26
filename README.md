@@ -8,4 +8,4 @@ TKTKTK
 
 ## License
 
-React is [MIT licensed](./LICENSE).
+Openlaw is [MIT licensed](./LICENSE).
