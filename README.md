@@ -1,10 +1,22 @@
 # Openlaw
-Openlaw is a platform for crowdsourcing laws. 
 
-## Contributing
+Openlaw is a citizen-driven platform for crowdsourcing understandable, equitable, and effective laws.
 
-The main purpose of this repository is to continue to foster the worldwide crowdsourcing of law, making democracies more responsive, more effective, and more user-friendly. Pull requests are encouraged and welcomed.
+* **Open to Everyone** - tktktk
+* **GitHub-like Collaboration** - tktktk
+* **Simple to Understand Summaries** - tktktk
+* **Built to be Beautiful, Readable, and Mobile-first** - tktktk
 
-### License
+CHeck out the [demo](https://www.google.com/) to see where we're headed.
+
+## ✊ Contributing
+
+This is a brand new project aimed at making democracy more responsive and addressing the world's most pressing issues.
+
+We are actively seeking collaborators willing to provide their skills in architecture, client and server side development, UX esign.
+
+ If you're interested in contributing, please reach out at [contribute@example.com](mailto:contribute@example.com)
+
+## 📃 License
 
 Openlaw is [MIT licensed](./LICENSE).
