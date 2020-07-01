@@ -2,11 +2,12 @@
 
 Openlaw is a citizen-driven platform for crowdsourcing understandable, equitable, and effective laws.
 
-Support this project:
+## 💚 Support this Project
 
-![](https://opencollective.com/webpack/donate/button@2x.png?color=blue | width=80)
+<img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" data-canonical-src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="200"/>
 
 
+##  🔨 What We're Building
 
 * **Open to Everyone.** Anyone can start a new draft law, invite collaborators, and build a community around their idea.
 * **GitHub-like Collaboration.** By combining best-in-class composition tools and the power of Git, laws can be drafted in the open at massive scale.
