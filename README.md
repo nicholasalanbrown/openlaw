@@ -17,7 +17,7 @@ Openlaw is an open platform for crowdsourcing understandable, equitable, and eff
 
 ## 💚 Support this Project
 
-This project is built by volunteers for the public interest and we rely on your donations to make it a reality. Please consider contirbuting by clicking the button below:
+This project is built by volunteers for the public interest and we rely on your donations to make it a reality. Please consider contirbuting through Open Collective below:
 
 <img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" data-canonical-src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="200"/>
 
