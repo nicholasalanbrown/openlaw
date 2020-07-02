@@ -6,7 +6,7 @@ Openlaw is an open platform for crowdsourcing understandable, equitable, and eff
 
 **[View the Demo
 ](https://www.google.com/)** or **[Read our Vision for Democracy
-](https://www.google.com/).**
+](VISION.md).**
 
 ##  🔥 How it Works
 
