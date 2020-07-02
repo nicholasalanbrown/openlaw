@@ -4,7 +4,9 @@
 
 Openlaw is an open platform for crowdsourcing understandable, equitable, and effective laws. This project was founded on the belief that citizens should write their own laws, and that crowdsourced legilsation can heal many of the ills democracies around the world face.
 
-**[Read more about our vision here](https://www.gogole.com/)**
+**[View the Demo
+](https://www.google.com/)** or **[Read our Vision for Democracy
+](https://www.google.com/).**
 
 ##  🔨 How it Works
 
@@ -12,9 +14,6 @@ Openlaw is an open platform for crowdsourcing understandable, equitable, and eff
 * **GitHub-like Collaboration.** By combining best-in-class composition tools and the power of Git, laws can be drafted in the open at massive scale. Anyone can fork a draft and create their own iteration or adapt a proven model to their own community.
 * **Simple to Understand Summaries.**  Every draft has two parts - a brief, readable explanation of the problem being addressed and how, and the dense legal language to back it up. Contributors can add images, embed videos, and add other rich markup to build engagement and make their content as vibrant as their ideas.
 * **Built to be Beautiful, Readable, and Mobile-first.** - Openlaw sets a new standard for the citizen experience; everything is built to be responsive, accessible, and localized so no user is left behind.
-
-**[CHeck out the demo to see where we're headed
-](https://www.google.com/).**
 
 ## 💚 Support this Project
 
