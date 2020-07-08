@@ -5,7 +5,7 @@
 Openlaw is an open platform for crowdsourcing understandable, equitable, and effective laws. This project was founded on the belief that citizens should write their own laws, and that crowdsourced legilsation can heal many of the ills democracies around the world face.
 
 **[View the Demo
-](https://www.google.com/)** or **[Read our Vision for Democracy
+](https://www.google.com/)** or **[Read our Vision
 ](VISION.md).**
 
 ##  🔥 How it Works

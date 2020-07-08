@@ -12,7 +12,7 @@ It is easy to see the weaknesses of our current system. The lawmakers who repres
 * Can trade individual stocks and sometimes get [caught using their status to profit](https://www.nytimes.com/2020/06/15/us/politics/congress-trading-stock-loeffler-burr.html) from industries they are supposed to oversee
 * Pass massive bills [in the middle of the night](https://www.buzzfeednews.com/article/matthewzeitlin/senate-republicans-just-passed-a-massive-tax-bill-in-the) to avoid public scrutiny
 
-We can do far better - Openlaw's goal is to just that. Here's how it works:
+**We can do far better** - Openlaw's goal is to just that. Here's how it works:
 
 1. Register for an account on our platform
 2. Begin a new draft proposal (or fork someone else's), including some basic information like it's title, a header photo, the subject, and it's scope (national/state/local)
