@@ -1,4 +1,4 @@
-# Openlaw
+![Openlaw](./logo.png)
 
 ### A new user experience for representative democracy.
 

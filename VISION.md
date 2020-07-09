@@ -14,6 +14,14 @@ It is easy to see the weaknesses of our current system. The lawmakers who repres
 
 **We can do far better** - Openlaw's goal is to do just that. 
 
+## Our Principles
+
+* Our laws should promote the public interest, not the narrow priorities of a privileged or well-connected group
+* Laws should be written in public view - transparency builds trust and engagement
+* Crowds can generate more and better ideas than individuals or small teams
+* We should have many competing ideas to choose from in solving our most difficult challenges
+* It should be easy to copy good ideas from one community to another
+
 ## How it Works
 
 In order to make the crowdsourcing of law work at scale, we combine a GitHub-like editing and branching system with a rich and modern content model that allows large numbers of people to create, edit, and maintain engaging, innovate proposals.
