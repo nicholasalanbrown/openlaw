@@ -16,6 +16,10 @@ It is easy to see the weaknesses of our current system. The lawmakers who repres
 
 ## How it Works
 
+In order to make the crowdsourcing of law work at scale, we combine a GitHub-like editing and branching system with a rich and modern content model that allows large numbers of people to create, edit, and maintain engaging, innovate proposals.
+
+Here's how it works:
+
 1. Register for an account on our platform
 2. Begin a new draft proposal (or fork someone else's), including some basic information like it's title, a header photo, the subject, and it's scope (national/state/local)
 3. Invite collaborators and decide who can edit, contribute, or comment
@@ -25,4 +29,4 @@ It is easy to see the weaknesses of our current system. The lawmakers who repres
 
 ## Frequently Asked Questions
 
-Coming soon!
+**Coming soon!**
