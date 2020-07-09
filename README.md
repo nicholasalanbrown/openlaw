@@ -21,6 +21,10 @@ This project is built by volunteers for the public interest and we rely on your 
 
 <img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" data-canonical-src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="200"/>
 
+## Our Partners
+
+Coming soon!
+
 ## 📦 Installation
 
 Coming soon!
