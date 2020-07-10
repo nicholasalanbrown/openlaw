@@ -23,6 +23,7 @@ It's time for some new principles to govern how law and policy is made in the Un
 * Our laws should promote the public interest, not the narrow priorities of a privileged or well-connected group
 * Laws should be written in public view, not in secret - transparency builds trust and engagement
 * Crowds can generate more and better ideas than individuals or small teams
+* If special interest groups want to push solutions to our challenges, they should do so in public view, with their ideas judged on their merits.
 * We should have many competing ideas to choose from in solving our most difficult challenges
 * Good ideas should spread and fork as fast as the internet can take them
 
