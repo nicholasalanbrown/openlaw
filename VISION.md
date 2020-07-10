@@ -1,8 +1,10 @@
 # Our Vision
 
-Laws should be written openly by the public, not by elected representatives. Technology and society have evolved so dramatically since our law-making bodies were created that we now have the capability to dramatically improve on their output, representativeness, and effectiveness.
+Laws should be written by the public, not by elected representatives. 
 
-It is easy to see the weaknesses of our current system. The lawmakers who represent us in Congress, in our state legislatures, and in our city councils:
+The concept of electing representatives to govern democracies was a practical necessity developed before the internet. Technology and society have evolved so dramatically since our law-making bodies were created that we now have the opportunity to dramatically improve on their output, representativeness, and effectiveness.
+
+It is easy to see the weaknesses of our current system of representation. The lawmakers we elect to our Congress, to our state legislatures, and to our city councils:
 * may spend at least [half of their time fundraising](https://www.huffpost.com/entry/call-time-congressional-fundraising_n_2427291)
 * are responsible for providing oversight on complex issues, like the internet, that they [clearly don't understand at all](https://techcrunch.com/2018/05/06/our-modern-congress-doesnt-understand-21st-century-technology/)
 * [have fewer staff every year](https://www.brookings.edu/blog/fixgov/2017/05/24/vital-stats-congress-has-a-staffing-problem-too/) even as our problems grow
@@ -18,14 +20,14 @@ It is easy to see the weaknesses of our current system. The lawmakers who repres
 
 We belive it's time to revist some of the core assumptions at the heart of our democracy, both in light of the fragility our system has come to exhibit and in what technology has made possible.
 
-It's time for some new principles to govern how law and policy is made in the United States:
+We need new principles to govern how law and policy is made in America:
 
 * Our laws should promote the public interest, not the narrow priorities of a privileged or well-connected group
-* Laws should be written in public view, not in secret - transparency builds trust and engagement
+* Laws should be written in public view, not in secret - transparency builds trust and engagement, secrecy breeds cynicism and apathy.
 * Crowds can generate more and better ideas than individuals or small teams
 * If special interest groups want to push solutions to our challenges, they should do so in public view, with their ideas judged on their merits.
 * We should have many competing ideas to choose from in solving our most difficult challenges
-* Good ideas should spread and fork as fast as the internet can take them
+* Good ideas should spread and fork as fast as our fiber optic cables can take them
 
 ## How it Works
 
