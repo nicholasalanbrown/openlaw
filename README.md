@@ -7,8 +7,6 @@ Openlaw is an open platform for crowdsourcing understandable, equitable, and eff
 **View the Demo** or **[Read Our Vision
 ](VISION.md)**
 
-##  🔥 How it Works
-
 * **Open to Everyone.** Anyone can start a new proposal, invite collaborators, and build a community around their idea.
 * **GitHub-like Collaboration.** By combining best-in-class composition tools and the power of Git, laws can be drafted in the open at massive scale. Anyone can fork a proposal and create their own iteration or adapt a proven model from another community to their own.
 * **Simple to Understand Summaries.**  Every proposal has two parts - a brief, readable explanation of the problem being addressed and how, and the dense legal language to back it up. Contributors can add images, embed videos, and add other rich markup to build engagement and make their content as vibrant as their ideas.
