@@ -2,7 +2,7 @@
 
 Laws should be written by the public, not by elected representatives. 
 
-The concept of electing representatives to govern democracies was a practical necessity developed before the internet. Technology and society have evolved so dramatically since our law-making bodies were created that we now have the opportunity to dramatically improve on their output, representativeness, and effectiveness.
+The concept of electing representatives to govern democracies was a practical necessity developed before the internet. Technology and society have evolved so dramatically since our law-making bodies were created that we now have the opportunity to dramatically improve on their output, representativeness, and effectiveness. Our representatives must continue to play a role in conducting oversight and in agenda setting, but much of their work should be replaced with more democratic and distributed institutions.
 
 It is easy to see the weaknesses of our current system of representation. The lawmakers we elect to our Congress, to our state legislatures, and to our city councils:
 * may spend at least [half of their time fundraising](https://www.huffpost.com/entry/call-time-congressional-fundraising_n_2427291)
