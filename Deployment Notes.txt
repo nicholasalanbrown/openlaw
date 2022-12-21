@@ -1,0 +1,16 @@
+{
+    "repository": {
+        "repositoryArn": "arn:aws:ecr:us-east-2:674256596796:repository/docker-repository",
+        "registryId": "674256596796",
+        "repositoryName": "docker-repository",
+        "repositoryUri": "674256596796.dkr.ecr.us-east-2.amazonaws.com/docker-repository",
+        "createdAt": "2022-12-20T16:35:54-05:00",
+        "imageTagMutability": "MUTABLE",
+        "imageScanningConfiguration": {
+            "scanOnPush": false
+        },
+        "encryptionConfiguration": {
+            "encryptionType": "AES256"
+        }
+    }
+}
