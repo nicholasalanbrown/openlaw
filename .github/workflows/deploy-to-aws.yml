@@ -6,6 +6,10 @@ on:
 
 name: Openlaw Mediawiki CI on ECR
 
+permissions:
+  id-token: write
+  contents: read
+
 jobs:
   deploy:
     name: Deploy
